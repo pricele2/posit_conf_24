@@ -1,5 +1,5 @@
 ######################################################
-# emma ? and ??
+# posit conf seattle Aug 12 to 14
 # LPRICE5
 # Workshop 12 Aug 2024
 ######################################################
@@ -14,7 +14,3 @@ install.packages(some_packages)
 
 # Load all packages at once ----
 lapply(some_packages, library, character.only = TRUE)
-
-usethis::use_course("posit-conf-2024/programming-r-exercises")
-
-## still didn't get this part solved
